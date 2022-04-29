@@ -16,4 +16,3 @@ it will not be useable.
 To use, issue from directory 'build':
 
 $ ./grainofsalt --num 100 --outputs 90 --crypto grain
-
